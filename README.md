@@ -23,3 +23,7 @@ Projeto de um relógio digital desenvolvido para praticar conceitos de HTML, CSS
 ## 👩‍💻 Aprendizados
 
 Este projeto foi desenvolvido como parte dos meus estudos de desenvolvimento web, com o objetivo de praticar HTML, CSS e JavaScript.
+
+## 📸 Demonstração do projeto
+
+![Relógio Digital](relogio.png)
